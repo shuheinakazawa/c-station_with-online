@@ -525,6 +525,9 @@ a.contact-btn2:hover {
   margin: 120px 0 80px 0;
   display: inline-block;
 }
+.continue:hover {
+  opacity: 0.6;
+}
 .Question::before{
   content: url("images/pass1.png");
   position: absolute; 
@@ -773,10 +776,10 @@ a.contact-btn3:hover {
   justify-content: center;
 }
 .small{
-  font-size: 24px;
+  font-size: 18px;
 }
 .word{
-  font-size: 34px;
+  font-size: 24px;
   padding: 5px;
 }
 .section-title2{
