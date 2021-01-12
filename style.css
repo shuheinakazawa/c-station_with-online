@@ -824,6 +824,8 @@ a.contact-btn3:hover {
   text-align: left;
   width: 50%;
   font-size: 20px;
+  background: #fff;
+  padding: 8px;
 }
 .important img{
   width: 30%;
