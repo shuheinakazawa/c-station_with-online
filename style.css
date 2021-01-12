@@ -97,7 +97,7 @@ img{
 }
 .important-txt{
   font-size: 20px;
-  padding: 30px;
+  margin: 30px auto;
 }
 
 .sub-txt1{
@@ -818,7 +818,7 @@ a.contact-btn3:hover {
   justify-content: space-around;
   height: auto;
   align-items: center;
-  margin: 0 auto;
+  margin: 30px auto;
 }
 .important p{
   text-align: left;
