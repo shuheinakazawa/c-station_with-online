@@ -16,6 +16,9 @@ body {
   overflow-x: hidden;
   letter-spacing: normal
 } 
+.section-title,.section-title2,.sub-title,.sub-title2{
+ font-family: 'Poiret One';
+}
 /*1.フェードインアニメーションの指定*/
 .scrollanime {opacity: 0;} /*一瞬表示されるのを防ぐ*/
 .fadeInDown {
