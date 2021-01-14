@@ -1225,7 +1225,8 @@ body{
 ------------------*/
 
 .empathy {
-  margin: 20px;
+  margin: auto 20px;
+  padding: 0;
   padding-bottom: 30px;
 }
 .section-title {
@@ -1329,7 +1330,7 @@ body{
 *
 ------------------*/
   .section-contents div{
-    margin: 60px auto 30px;
+    margin: 30px auto;
 }
   .section-title img {
     width: 240px;
